@@ -2,11 +2,9 @@
 
 # Lab | Customer Analysis Round 3
 
-For this lab, we still keep using the `marketing_customer_analysis.csv` file. You can find the file in the `files_for_lab` folder.
-
 ### Get the data
+For this lab, we will be using the `marketing_customer_analysis.csv` file. You can find the file in the `files_for_lab` folder.
 
-- Use the same jupyter file from the last lab, `Customer Analysis Round 3`
 
 ### EDA (Exploratory Data Analysis) - Complete the following tasks to explore the data:
 
