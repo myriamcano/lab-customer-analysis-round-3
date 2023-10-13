@@ -3,7 +3,8 @@
 # Lab | Customer Analysis Round 3
 
 ### Get the data
-For this lab, we will continue using the csv file that was downloaded in the previous lab.
+For this lab, we will continue using the csv file that was downloaded in the previous lab.  
+There is **NO NEED** to fork and clone this repository.
 
 
 ### EDA (Exploratory Data Analysis) - Complete the following tasks to explore the data:
