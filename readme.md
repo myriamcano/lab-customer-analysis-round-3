@@ -3,14 +3,15 @@
 # Lab | Customer Analysis Round 3
 
 ### Get the data
-For this lab, we will be using the `marketing_customer_analysis.csv` file. You can find the file in the `files_for_lab` folder.
+For this lab, we will continue using the csv file that was downloaded in the previous lab.
 
 
 ### EDA (Exploratory Data Analysis) - Complete the following tasks to explore the data:
 
 - Show DataFrame info.
 - Describe DataFrame.
-- Show a plot of the total number of responses.
-- Show a plot of the response rate by the sales channel.
-- Show a plot of the response rate by the total claim amount.
-- Show a plot of the response rate by income.
+- Show a plot of the Gender breakdown.
+- Show a plot of Income by State.
+- Show a plot of the Policy Type by the Total Claim Amount.
+- Show a plot of the Education by Vehicle Class.
+- What insights can you establish from these plots?
