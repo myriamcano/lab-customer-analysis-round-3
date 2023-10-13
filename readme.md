@@ -15,3 +15,4 @@ For this lab, we will continue using the csv file that was downloaded in the pre
 - Show a plot of the Policy Type by the Total Claim Amount.
 - Show a plot of the Education by Vehicle Class.
 - What insights can you establish from these plots?
+- What other plots do you feel would be beneficial?
